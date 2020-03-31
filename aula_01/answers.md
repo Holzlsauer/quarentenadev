@@ -44,7 +44,7 @@ alert("O criador pagou " + 300/15 + " reais por galinha.");
 #### Exercício 02:
 > Maria foi a padaria e comprou 19 balas, dpois voltou a padaria e comprou mais 45. Quantas balas Maria tem agora?
 ```javascript
-alert("Maria tem agora " + 19+45 + " balas.");
+alert("Maria tem agora " + (19+45) + " balas.");
 ```
 
 #### Exercício 03:
